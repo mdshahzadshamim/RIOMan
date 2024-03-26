@@ -14,7 +14,7 @@
 - Purchase/Stock up Inventory
 - Sale/Order Management
 
-Work Module
+https://github.com/mdshahzadshamim/RIOMan/assets/125750187/3fb05e26-eb9c-476c-8685-e332f48f00ea
 
 ## Modify Module
 
@@ -26,7 +26,7 @@ Work Module
 - Disonnect Dish-Ingredient
 - Modify Dish Price - Individual/Collective
 
-Modify Module
+https://github.com/mdshahzadshamim/RIOMan/assets/125750187/a35ba56b-44ea-4ee1-941e-56547d0871c9
 
 ## Features
 
